@@ -34,10 +34,10 @@ body {
 
 .conteiner {
     margin: auto;
-    height: auto;
     padding: 1rem;
     width: 100%;
     max-width: 1000px;
+    height: auto;
 }
 
 /* HEADER */
