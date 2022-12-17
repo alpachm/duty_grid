@@ -160,6 +160,10 @@ body {
     background: var(--bgColor);
 }
 
+.conteiner>p {
+    margin-top: 1rem;
+}
+
 /* MEDIA QUERIES */
 
 @media (min-width:520px) {
